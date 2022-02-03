@@ -1,0 +1,15 @@
+{% extends 'anime/origin.html' %}
+{% load static %}
+
+{% block title %}Anime{% endblock %}
+
+{% block content %}
+    <div>
+        {% for i in object_list %}
+            <div>
+                <h2 class="animetitle">{{ i.title }}</h2>
+                <img class="anime image" src="{{ i.image }}" alt="">
+            </div>
+        {% endfor %}
+    </div>
+{% endblock %}

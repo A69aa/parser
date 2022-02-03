@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6521ce6b-6e47-451c-9a82-c087730a2393" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="24IRBeTkkKb9ClnQFlhYPpcocOj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Anime" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6521ce6b-6e47-451c-9a82-c087730a2393" name="Default Changelist" comment="" />
+      <created>1643315979777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643315979777</updated>
+      <workItem from="1643315991912" duration="241000" />
+      <workItem from="1643316277139" duration="41000" />
+      <workItem from="1643316340216" duration="30000" />
+      <workItem from="1643316389424" duration="43000" />
+      <workItem from="1643316468093" duration="176000" />
+      <workItem from="1643316680652" duration="40000" />
+      <workItem from="1643316736979" duration="23000" />
+      <workItem from="1643316812780" duration="60000" />
+      <workItem from="1643316890194" duration="42000" />
+      <workItem from="1643316950976" duration="38000" />
+      <workItem from="1643317007734" duration="132000" />
+      <workItem from="1643317173224" duration="27000" />
+      <workItem from="1643317225295" duration="1757000" />
+      <workItem from="1643319027581" duration="217000" />
+      <workItem from="1643385501626" duration="132000" />
+      <workItem from="1643468909818" duration="4595000" />
+      <workItem from="1643488218689" duration="28000" />
+      <workItem from="1643488294296" duration="17000" />
+      <workItem from="1643488337853" duration="16000" />
+      <workItem from="1643488536318" duration="24000" />
+      <workItem from="1643488608465" duration="20000" />
+      <workItem from="1643488658712" duration="32000" />
+      <workItem from="1643660498948" duration="1662000" />
+      <workItem from="1643758212812" duration="1683000" />
+      <workItem from="1643902587768" duration="7693000" />
+      <workItem from="1643910685216" duration="2985000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1643909770584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1643909770584" />
+    <state x="93" y="93" width="1350" height="638" key="dock-window-1" timestamp="1643909205621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1643909205621" />
+    <state x="93" y="93" width="1350" height="638" key="dock-window-2" timestamp="1643909205621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1643909205621" />
+  </component>
+</project>

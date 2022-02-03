@@ -1,0 +1,14 @@
+{% extends 'anime/origin.html' %}
+{% load static %}
+
+{% block title %}Parser{% endblock %}
+
+{% block content %}
+
+<form class="parse" method="POST">
+  {% csrf_token %}
+  {{ form.as_p }}
+  <input class="btn" type="submit" value="Parse" />
+</form>
+
+{% endblock %}
